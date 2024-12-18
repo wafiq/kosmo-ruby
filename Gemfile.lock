@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    kosmo (0.1.0)
+    kosmo-ruby (0.1.0)
       faraday (~> 2.7)
       faraday-retry (~> 2.2)
 
@@ -79,11 +79,11 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv (~> 2.7)
-  kosmo!
+  kosmo-ruby!
   rake (~> 13.0)
   rspec (~> 3.0)
   rubocop (~> 1.21)
   webmock (~> 3.18)
 
 BUNDLED WITH
-   2.5.16
+   2.5.18
