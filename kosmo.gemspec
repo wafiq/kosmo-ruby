@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Ruby client for Kosmo API"
   spec.description = "A Ruby gem to interact with the Kosmo last-mile delivery API."
-  spec.homepage = "https://github.com/wafiq/kosmo_api"
+  spec.homepage = "https://github.com/wafiq/kosmo-ruby"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.0.0"
 
