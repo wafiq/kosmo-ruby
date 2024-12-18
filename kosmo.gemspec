@@ -3,7 +3,7 @@
 require_relative "lib/kosmo/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "kosmo"
+  spec.name = "kosmo-ruby"
   spec.version = Kosmo::VERSION
   spec.authors = ["Wafiq Rodzuan"]
   spec.email = ["wafiqrodzuan@gmail.com"]
